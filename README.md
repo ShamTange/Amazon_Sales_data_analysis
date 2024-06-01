@@ -16,13 +16,15 @@ Visualizations: Various plots to visualize the findings.
 
 Output:
 Example Visualizations
+
 Total Revenue Over Time
 
 Total Revenue by Item Type
 
 Total Profit by Item Type
 
-Insights
+
+Insights:
 From the analysis, several key insights were uncovered:
 
 Revenue Trends: The total revenue over time shows seasonal trends, with significant peaks during certain periods. This can help in planning marketing campaigns and inventory management for high-demand seasons.
